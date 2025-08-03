@@ -98,11 +98,6 @@ export default function RootLayout({
         <meta name="msapplication-TileColor" content="#2563eb" />
         <meta name="theme-color" content="#2563eb" />
         
-        {/* Google AdSense */}
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6435811821902528"
-          crossOrigin="anonymous"></script>
-        <meta name="google-adsense-account" content="ca-pub-6435811821902528"/>
-
         {/* Structured Data for SEO */}
         <script
           type="application/ld+json"
